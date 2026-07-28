@@ -22,5 +22,5 @@ To demonstrate API testing, defect reporting, and QA process improvement practic
 
 ## 👩‍💻 Author
 **Komal Kharade**  
-QA & Java Backend Developer  
+QA 
 Pune, India
