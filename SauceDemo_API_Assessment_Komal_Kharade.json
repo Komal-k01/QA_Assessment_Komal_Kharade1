@@ -1,0 +1,19 @@
+{
+  "info": {
+    "_postman_id": "aba4edcf-a524-4e2f-8a28-7dff8b626b11",
+    "name": "SauceDemo_API_Assessment_Komal_Kharade",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "48784832",
+    "_collection_link": "https://go.postman.co/collection/48784832-aba4edcf-a524-4e2f-8a28-7dff8b626b11?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "New Request",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
